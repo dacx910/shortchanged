@@ -10,8 +10,8 @@ public class PlayerManager : MonoBehaviour
     protected SaveSystem saveGame;
     protected float JumpHeight = 10f;
     protected float Speed = 5f;
-    protected float SprintSpeed = 6f;
-    protected float DetectionSpeed = 5f;
+    protected float SprintSpeed = 9f;
+    protected float DetectionSpeed = 3f;
     protected float Sensitivity = 0f;
     protected int permCash = 0;
     protected int levelCash = 0;
